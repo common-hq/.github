@@ -1,12 +1,5 @@
-## Hi there 👋
+# Welcome to Common HQ!
 
-<!--
+Common HQ stands as a vibrant collaborative community, uniting passionate individuals in the shared responsibility of nurturing open-source SaaS projects. Within this dynamic space, programmers are empowered not just to solve business problems but to immerse themselves in real-world challenges, gaining invaluable hands-on experience.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+If you have any ideas, feel free to join the [discussion](https://github.com/orgs/common-hq/discussions) and share them with us.
